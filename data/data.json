@@ -7,7 +7,7 @@
       "price": 10000,
       "oldPrice": 20000,
       "rating": 5,
-      "image": "/img/Croissant.jpg",
+      "image": "img/Croissant.jpg",
       "flashSale": false
     },
     {
@@ -17,7 +17,7 @@
       "price": 12000,
       "oldPrice": 24000,
       "rating": 5,
-      "image": "/img/Spaghetti.jpg",
+      "image": "img/Spaghetti.jpg",
       "flashSale": true
     },
     {
@@ -27,7 +27,7 @@
       "price": 15000,
       "oldPrice": 30000,
       "rating": 4,
-      "image": "/img/Cappuccino.jpg",
+      "image": "img/Cappuccino.jpg",
       "flashSale": false
     },
     {
@@ -37,7 +37,7 @@
       "price": 13000,
       "oldPrice": 26000,
       "rating": 5,
-      "image": "/img/Chicken.jpg",
+      "image": "img/Chicken.jpg",
       "flashSale": true
     },
     {
@@ -47,7 +47,7 @@
       "price": 14000,
       "oldPrice": 28000,
       "rating": 4,
-      "image": "/img/Espresso.jpg",
+      "image": "img/Espresso.jpg",
       "flashSale": false
     },
     {
@@ -57,7 +57,7 @@
       "price": 9000,
       "oldPrice": 18000,
       "rating": 4,
-      "image": "/img/Hazzelnut.png",
+      "image": "img/Hazzelnut.png",
       "flashSale": true
     },
     {
@@ -67,7 +67,7 @@
       "price": 16000,
       "oldPrice": 32000,
       "rating": 5,
-      "image": "/img/Icecream.jpg",
+      "image": "img/Icecream.jpg",
       "flashSale": true
     },
     {
@@ -77,7 +77,7 @@
       "price": 8000,
       "oldPrice": 16000,
       "rating": 4,
-      "image": "/img/Iced Coffee Milk.jpg",
+      "image": "img/Iced Coffee Milk.jpg",
       "flashSale": true
     },
     {
@@ -87,7 +87,7 @@
       "price": 17000,
       "oldPrice": 34000,
       "rating": 5,
-      "image": "/img/Matcha Latte.jpg",
+      "image": "img/Matcha Latte.jpg",
       "flashSale": true
     },
     {
@@ -97,7 +97,7 @@
       "price": 11000,
       "oldPrice": 22000,
       "rating": 4,
-      "image": "/img/Mocha Latte.jpg",
+      "image": "img/Mocha Latte.jpg",
       "flashSale": true
     }
   ],
