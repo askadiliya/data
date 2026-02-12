@@ -8,7 +8,7 @@
       "oldPrice": 20000,
       "rating": 5,
       "image": "img/Croissant.jpg",
-      "flashSale": false
+      "flashSale": true
     },
     {
       "id": 2,
@@ -28,7 +28,7 @@
       "oldPrice": 30000,
       "rating": 4,
       "image": "img/Cappuccino.jpg",
-      "flashSale": false
+      "flashSale": true
     },
     {
       "id": 4,
@@ -43,16 +43,16 @@
     {
       "id": 5,
       "title": "Espresso",
-      "description": "Classic Italian cappuccino with thick foam and bold taste.",
+      "description": "Classic Italian espresso with thick crema and bold taste.",
       "price": 14000,
       "oldPrice": 28000,
       "rating": 4,
       "image": "img/Espresso.jpg",
-      "flashSale": false
+      "flashSale": true
     },
     {
       "id": 6,
-      "title": "Hazzelnut.png",
+      "title": "Hazelnut",
       "description": "Strong and bold coffee for real coffee lovers.",
       "price": 9000,
       "oldPrice": 18000,
@@ -62,7 +62,7 @@
     },
     {
       "id": 7,
-      "title": "Icecream",
+      "title": "Ice Cream",
       "description": "Combination of chocolate and espresso for a smooth taste.",
       "price": 16000,
       "oldPrice": 32000,
@@ -72,7 +72,7 @@
     },
     {
       "id": 8,
-      "title": "Iced Coffee Milk.jpg",
+      "title": "Iced Coffee Milk",
       "description": "Pure espresso shot with strong aroma and flavor.",
       "price": 8000,
       "oldPrice": 16000,
@@ -82,7 +82,7 @@
     },
     {
       "id": 9,
-      "title": "Matcha Latte.jpg",
+      "title": "Matcha Latte",
       "description": "Premium Japanese matcha mixed with creamy milk.",
       "price": 17000,
       "oldPrice": 34000,
@@ -92,7 +92,7 @@
     },
     {
       "id": 10,
-      "title": "Mocha Latte.jpg",
+      "title": "Mocha Latte",
       "description": "Fresh iced coffee with milk, perfect for hot days.",
       "price": 11000,
       "oldPrice": 22000,
@@ -109,7 +109,7 @@
       "role": "Manager Coffee Shop",
       "message": "Wow... I am very happy to spend my whole day here. The Wi-Fi is good, and the coffee and meals tho. I like it here!! Very recommended!",
       "rating": 5,
-      "image": "/img/testimonial-1.jpg"
+      "image": "img/testimonial-1.jpg"
     },
     {
       "id": 2,
@@ -117,7 +117,7 @@
       "role": "Food Blogger",
       "message": "The coffee tastes amazing and the ambience is very cozy. Perfect place to work and chill at the same time.",
       "rating": 5,
-      "image": "/img/testimonial-2.jpg"
+      "image": "img/testimonial-2.jpg"
     },
     {
       "id": 3,
@@ -125,7 +125,7 @@
       "role": "Coffee Enthusiast",
       "message": "I love the variety of coffee here. The staff is friendly and the service is fast.",
       "rating": 4,
-      "image": "/img/testimonial-3.jpg"
+      "image": "img/testimonial-3.jpg"
     },
     {
       "id": 4,
@@ -133,7 +133,7 @@
       "role": "Freelancer",
       "message": "Great place for remote working. Stable internet and delicious coffee.",
       "rating": 5,
-      "image": "/img/testimonial-4.jpg"
+      "image": "img/testimonial-4.jpg"
     }
   ]
 }
