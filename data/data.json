@@ -99,6 +99,57 @@
       "rating": 4,
       "image": "https://raw.githubusercontent.com/askadiliya/data/main/img/Mocha%20Latte.jpg",
       "flashSale": true
+    },
+
+    {
+      "id": 11,
+      "title": "Americano",
+      "description": "Fresh brewed Americano coffee with a strong taste and smooth finish.",
+      "price": 10000,
+      "oldPrice": 15000,
+      "rating": 4,
+      "image": "https://raw.githubusercontent.com/askadiliya/data/main/img/Americano.jpg",
+      "flashSale": false
+    },
+    {
+      "id": 12,
+      "title": "Caramel Latte",
+      "description": "Sweet caramel latte with creamy milk and espresso, perfect for relaxing.",
+      "price": 16000,
+      "oldPrice": 22000,
+      "rating": 5,
+      "image": "https://raw.githubusercontent.com/askadiliya/data/main/img/Caramel%20Latte.jpg",
+      "flashSale": false
+    },
+    {
+      "id": 13,
+      "title": "Army Coffee",
+      "description": "A unique coffee blend with strong aroma and bold flavor for energy boost.",
+      "price": 15000,
+      "oldPrice": 20000,
+      "rating": 4,
+      "image": "https://raw.githubusercontent.com/askadiliya/data/main/img/Army.jpg",
+      "flashSale": false
+    },
+    {
+      "id": 14,
+      "title": "Dokter Coffee",
+      "description": "A special creamy coffee drink with balanced sweetness and rich flavor.",
+      "price": 17000,
+      "oldPrice": 25000,
+      "rating": 5,
+      "image": "https://raw.githubusercontent.com/askadiliya/data/main/img/Dokter.jpg",
+      "flashSale": false
+    },
+    {
+      "id": 15,
+      "title": "Pilot Coffee",
+      "description": "Smooth premium coffee drink with elegant aroma and delicious aftertaste.",
+      "price": 18000,
+      "oldPrice": 26000,
+      "rating": 5,
+      "image": "https://raw.githubusercontent.com/askadiliya/data/main/img/Pilot.jpg",
+      "flashSale": false
     }
   ],
 
@@ -109,7 +160,7 @@
       "role": "Manager Coffee Shop",
       "message": "Wow... I am very happy to spend my whole day here. The Wi-Fi is good, and the coffee and meals tho. I like it here!! Very recommended!",
       "rating": 5,
-      "image": "https://raw.githubusercontent.com/askadiliya/data/main/img/testimonial-1.jpg"
+      "image": "https://raw.githubusercontent.com/askadiliya/data/main/img/Polisi.jpg"
     },
     {
       "id": 2,
@@ -117,7 +168,7 @@
       "role": "Food Blogger",
       "message": "The coffee tastes amazing and the ambience is very cozy. Perfect place to work and chill at the same time.",
       "rating": 5,
-      "image": "https://raw.githubusercontent.com/askadiliya/data/main/img/testimonial-2.jpg"
+      "image": "https://raw.githubusercontent.com/askadiliya/data/main/img/Pilot.jpg"
     },
     {
       "id": 3,
@@ -125,7 +176,7 @@
       "role": "Coffee Enthusiast",
       "message": "I love the variety of coffee here. The staff is friendly and the service is fast.",
       "rating": 4,
-      "image": "https://raw.githubusercontent.com/askadiliya/data/main/img/testimonial-3.jpg"
+      "image": "https://raw.githubusercontent.com/askadiliya/data/main/img/Dokter.jpg"
     },
     {
       "id": 4,
@@ -133,7 +184,7 @@
       "role": "Freelancer",
       "message": "Great place for remote working. Stable internet and delicious coffee.",
       "rating": 5,
-      "image": "https://raw.githubusercontent.com/askadiliya/data/main/img/testimonial-4.jpg"
+      "image": "https://raw.githubusercontent.com/askadiliya/data/main/img/Damkar.jpg"
     }
   ]
 }
